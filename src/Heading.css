@@ -1,0 +1,10 @@
+.from-heading{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    align-content: center;
+    background-color: gray;
+    color: white;
+    height: 50px;
+    padding: 20px;
+}

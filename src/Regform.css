@@ -1,0 +1,66 @@
+.Registration-From{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    height: 100%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.from-group{
+ display: flex;
+ flex-direction: column;
+ margin-bottom: 20px;
+}
+
+label{
+    margin-bottom: 5px;
+    font-size: x-large;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 1px;
+    border: none;
+    background-color: maroon;
+    color: white;
+    font-size: 10px;
+    width: 100%;
+
+}
+button:hover{
+    background-color: brown;
+}
+select{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    width: 100%;
+
+}
+
+.from-group1{
+    display: flex;
+    flex-direction: left;
+    margin-bottom: 10px;
+    padding: 15px;
+
+}
+textarea{
+    width: 100%;
+}
+.warning{
+    padding: 0px 5px 7px;
+    font-size: large;
+    color: red;
+}
